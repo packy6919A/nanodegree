@@ -1,5 +1,6 @@
 ## Summary
 
+
 Scope of this project is to build an ETL pipeline that extracts data from S3 to staging tables on Redshift, and transforms data into a set of dimensional tables.
 
 The project is written in `python` and uses `Amazon s3` for file storage and `Amazon Redshift` for database storage and data warehouse purpose.

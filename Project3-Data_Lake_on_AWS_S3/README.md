@@ -1,4 +1,4 @@
-# Project 4: Data Lake
+# Project 3: Data Lake
 
 Scope of this projectis is to process a large amount of data related to a music streaming service named Sparkify.
 

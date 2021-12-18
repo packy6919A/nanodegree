@@ -1,5 +1,6 @@
 # Project 1: Data modeling of a music streaming application using PostgresSQL Database
 
+
 Scope of this project is to create a PostgresSQL database *Sparkify* with tables designed to optimize queries on song play analysis for a music streaming app. These data are collected from JSON logs (*user activity*) and JSON metadata (*the songs*) in the app. 
 
 ## Schema

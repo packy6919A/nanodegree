@@ -22,7 +22,8 @@ Activities done include:
 Technology used: Python, Apache Cassandra, Denormalization
 
 ## Project 3: [Data Lake - Spark](https://github.com/packy6919A/nanodegree/tree/main/Project3-Data_Lake_on_AWS_S3)
-Scaled up the current ETL pipeline by moving the data warehouse to a data lake. Skills include:
+Scaled up the current ETL pipeline by moving the data warehouse to a data lake.
+Activities done include: 
 
 * A EMR Hadoop Cluster have been developed.
 * An ETL Pipeline have been developed copy datasets from S3 buckets. The data have been processed using Spark to write in S3 buckets using efficient partitioning and parquet formatting.
@@ -31,7 +32,8 @@ Scaled up the current ETL pipeline by moving the data warehouse to a data lake. 
 Technologies used: Spark, S3, EMR, Athena, Amazon Glue, Parquet.
 
 ## Project 4: [Data Pipelines - Airflow](https://github.com/packy6919A/nanodegree/tree/main/Project4-Data_Pipelines_with_Apache_Airflow)
-Automate the ETL pipeline and creation of data warehouse using Apache Airflow. Skills include:
+Automate the ETL pipeline and creation of data warehouse using Apache Airflow.
+Activities done include:
 
 * Using Airflow to automate ETL pipelines using Airflow, Python, Amazon Redshift.
 * Writing custom operators to perform tasks such as staging data, filling the data warehouse, and validation through data quality checks.
